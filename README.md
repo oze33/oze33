@@ -1,5 +1,5 @@
 <h1 align="center">Hola me llamo Garcia Daner</h1>
-<h3 align="center">Soy un Frontend apasionado</h3>
+<h3 align="center">Soy un Desarrollador Frontend</h3>
 
 - 👨‍💻 All of my projects are available at [danergarcia.com](danergarcia.com)
 
